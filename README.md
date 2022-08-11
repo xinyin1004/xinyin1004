@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xinyin1004. I'm new to github.
+- 👀 I’m interested in web development/front-end development.
+- 🌱 I’m currently learning html, css and more.
+- 💞️ I’m looking for a new job.
+- 📫 How to reach me: lowxinyin96@gmail.com
